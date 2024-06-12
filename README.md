@@ -1,7 +1,7 @@
 # Upe Impact
 
 ## Overview
-Upe Impact is a web application which facilitates coordination of community betterment projects. It integrates prime features like user authentication system delivered by magic.link and real-time attendance tracking mechanism for volunteers attending the events.
+Upe Impact is a web application which facilitates coordination of community betterment projects. It integrates prime features like user authentication system delivered by Thidweb In-App/Engine and real-time attendance tracking mechanism for volunteers attending the events.
 
 ## Features
 Upe Impact provides differentiated platforms for distinctive users:
