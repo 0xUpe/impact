@@ -13,7 +13,7 @@
 - Performing user experience tests and refining design.
 
 ## Phase 4: Development (6-12 weeks)
-- Implementing functionality and integrating magic.link for authentication.
+- Implementing functionality and integrating Thirdweb for authentication.
 - Creating and testing smart contracts for data submission.
 
 ## Phase 5: Testing (2-4 weeks)
@@ -30,7 +30,7 @@
 # Upe Impact
 
 ## Authentication
-- We will integrate magic.link for user authentication. Upon successful login, a user wallet will be generated automatically.
+- We will integrate In-App wallets from Thirdweb for user authentication. Upon successful login, a user wallet will be generated automatically.
 
 ## Volunteer Interface
 - Volunteers can easily check into an event with a simple, intuitive user interface. Their attendance at the event will be detected and confirmed in real-time.
@@ -44,7 +44,7 @@
 ## On-chain Submission
 - The final verified data is subsequently submitted on-chain using smart contracts, making the information immutable, transparent, and secure.
 
-'Upe Impact' is a revolutionary web application designed to facilitate the coordination of community betterment projects. With an integrated authentication system powered by magic.link, the application generates user wallets upon login, ensuring secure access for all users of any technical level from web3 native to novice. The idea is to design and implement this so that any web user can utilize this tool with zero web3 knowledge.
+'Upe Impact' is a revolutionary web application designed to facilitate the coordination of community betterment projects. With an integrated authentication system powered by Thirdweb, the application generates user wallets upon login, ensuring secure access for all users of any technical level from web3 native to novice. The idea is to design and implement this so that any web user can utilize this tool with zero web3 knowledge.
 The application features distinct interfaces for volunteers, event organizers, and administrators. Volunteers can check into events with ease and their attendance is tracked in real-time. Event organizers are empowered with a platform to verify this attendance, as well as to submit crucial data about the communal initiatives they're spearheading. This streamlines communication and ensures transparency across the board.
 The admin or organizer interface adds another level of verification to maintain data integrity. It ensures that before the data is submitted on-chain using smart contracts, it is thoroughly examined and endorsed. By publishing the data, 'Upe Impact' upholds the principles of transparency, security, and permanence that blockchain technology offers.
 In essence, 'Upe Impact' embodies the heart of the community, providing tools that enhance efficiency in community projects, and ensuring that the efforts undertaken by volunteers and organizers are accurately recorded, verified, and celebrated.
